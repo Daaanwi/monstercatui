@@ -18,7 +18,7 @@ export default function TracklistSection() {
 
   return (
     <div className="w-full bg-[#171514] shadow-xl">
-      <div className="max-w-[1600px] mx-auto py-2">
+      <div className="max-w-[1600px] mx-auto py-2 text-[#fdfdfd]">
         <div className="py-4">
           <p className="uppercase text-4xl font-bold tracking-wide">
             Track list

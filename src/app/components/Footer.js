@@ -23,7 +23,7 @@ export default function Footer() {
   ];
 
   return (
-    <div className="w-full bg-[#171514] py-4">
+    <div className="w-full bg-[#171514] py-4 text-[#fdfdfd]">
       <div className="max-w-[1600px] mx-auto">
         <div className="flex flex-row justify-between">
           <p className="italic text-[#ccc] text-lg">

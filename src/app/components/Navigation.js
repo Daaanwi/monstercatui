@@ -2,7 +2,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 export default function Navigation() {
   return (
-    <div className="w-full py-8 bg-[#171514]">
+    <div className="w-full py-8 bg-[#171514] text-[#fdfdfd]">
       <div className="max-w-[1600px] mx-auto py-8 border-t border-b">
         <div className="md:grid grid-cols-12 flex flex-row">
           <div className="col-span-4">

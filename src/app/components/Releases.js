@@ -23,10 +23,10 @@ export default function Releases() {
   return (
     <div className="w-full bg-[#171514] py-6">
       <div className="max-w-[1600px] mx-auto my-4">
-        <p className="text-5xl uppercase tracking-widest font-bold">
+        <p className="text-5xl uppercase tracking-widest font-bold text-[#fdfdfd]">
           Other releases like this
         </p>
-        <div className="flex flex-row justify-between mt-8">
+        <div className="flex flex-row justify-between mt-8 text-[#fdfdfd]">
           {releases.map((release) => (
             <Release
               cover={release.cover}

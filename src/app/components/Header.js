@@ -7,7 +7,7 @@ import { FaSpotify, FaSoundcloud } from "react-icons/fa";
 
 export default function Header() {
   return (
-    <div className="w-full bg-[#171514] py-4 shadow-xl">
+    <div className="w-full bg-[#171514] py-4 shadow-xl text-[#fdfdfd]">
       <div className="max-w-[1600px] mx-auto py-4">
         <div className="w-full my-4">
           <p className="uppercase text-5xl font-bold tracking-widest">
