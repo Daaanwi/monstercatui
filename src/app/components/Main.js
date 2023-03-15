@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Background from "/public/assets/lightpainting.jpg";
+import Background from "/public/assets/grossgasteiger.jpg";
 import Cover from "/public/assets/cover.jpg";
 import { FiPlay } from "react-icons/fi";
 import { GiShare } from "react-icons/gi";
